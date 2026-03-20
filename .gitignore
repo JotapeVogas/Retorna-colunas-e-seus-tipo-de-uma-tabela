@@ -128,10 +128,6 @@ ipython_config.py
 __pypackages__/
 
 
-
-#!EXEMPLO DE URL DE CONEXÃO:
-#!postgresql+psycopg2://usuario:senha@localhost/banco_de_dados 
-
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
